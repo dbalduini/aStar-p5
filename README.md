@@ -1,3 +1,5 @@
 ## A* Search Algorithm with p5.js
 
-Video: https://youtu.be/aKYlikFAV4k
+Video 1: https://youtu.be/aKYlikFAV4k
+Video 2:
+Video 3:
